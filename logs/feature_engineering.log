@@ -1,0 +1,6 @@
+2025-07-30 00:48:35,246 - INFO - Loaded processed data: 1000209 rows
+2025-07-30 00:48:36,659 - INFO - Created user-genre matrix: 12080 users x 301 genres
+2025-07-30 00:48:37,132 - INFO - Saved user taste vectors to: /Users/gnaneshreddysaireddy/TasteDrift-MovieLens/data/processed/user_taste_vectors.csv
+2025-07-31 15:32:21,694 - INFO - Loaded processed data: 1000209 rows
+2025-07-31 15:32:23,590 - INFO - Created user-genre matrix: 12080 users x 301 genres
+2025-07-31 15:32:24,102 - INFO - Saved user taste vectors to: /Users/gnaneshreddysaireddy/TasteDrift-MovieLens/data/processed/user_taste_vectors.csv
